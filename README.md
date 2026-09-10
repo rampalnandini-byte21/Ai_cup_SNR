@@ -1,1 +1,1 @@
-# Ai_cup_SNR
+# AI-cup-SNR
